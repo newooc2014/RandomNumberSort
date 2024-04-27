@@ -1,0 +1,6 @@
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\bin\Release\RndNumbSort21.exe.config
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\bin\Release\RndNumbSort21.exe
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\bin\Release\RndNumbSort21.pdb
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\obj\Release\RndNumbSort21.csproj.CoreCompileInputs.cache
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\obj\Release\RndNumbSort21.exe
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\obj\Release\RndNumbSort21.pdb

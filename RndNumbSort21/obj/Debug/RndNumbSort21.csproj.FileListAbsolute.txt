@@ -1,0 +1,7 @@
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\bin\Debug\RndNumbSort21.exe.config
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\bin\Debug\RndNumbSort21.exe
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\bin\Debug\RndNumbSort21.pdb
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\obj\Debug\RndNumbSort21.csprojAssemblyReference.cache
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\obj\Debug\RndNumbSort21.csproj.CoreCompileInputs.cache
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\obj\Debug\RndNumbSort21.exe
+C:\Users\lordi\source\repos\RndNumbSort21\RndNumbSort21\obj\Debug\RndNumbSort21.pdb
